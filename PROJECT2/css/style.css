@@ -1,0 +1,70 @@
+
+.hero {
+    background-image:url(https://media.nbcwashington.com/2019/09/111119-nike-air-jordan-off-white.jpg?quality=85&strip=all&resize=850%2C478);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.min-vh-75 {
+    min-height:125vh !important;
+}
+
+.heading-1 {
+    font-size:30px;
+    font-weight:normal;
+}
+
+.w-65 {
+    width:65%;
+}
+
+.takeout{
+    background-color: cyan ;
+    padding: 20px;
+    text-align: center;
+  
+}
+
+.centeredform{
+    height: 437px;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    
+    align-items: flex-start;
+}
+
+.submitbutton{
+    color: white;
+}
+
+.mailing{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    width: 70%;
+}
+
+.buttonc{
+    width: 65%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.input{
+    width: 60%;
+}
+
+.footer{
+    height: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-text{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
